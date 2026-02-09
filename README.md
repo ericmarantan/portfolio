@@ -37,13 +37,33 @@ Ongoing support, bug fixes, refactoring legacy code, and scaling existing platfo
 
 *A selection of projects and systems I’ve worked on over the years..*
 
-**Custom WordPress Submission System**
+**🔹 Custom WordPress Submission System**
 <!--![image](1 anietie etuk data analytics car project.jpeg)-->
 ***Custom Post Types • REST API • AJAX***
 
 A fully custom WordPress submission system that saves form data into a custom database table, supports CSV export, and handles nonce validation and autosave conflicts.
+🔗 [Read More](https://www.linkedin.com/pulse/#/)
 
-[Read More](https://www.linkedin.com/pulse/#/)
+**🔹 eCommerce Store Development (Magento / Shopify)**
+<!--![image](1 anietie etuk data analytics car project.jpeg)-->
+***Custom Themes • Payments • Optimization***
+
+Developed and customized eCommerce stores using Magento and Shopify, focusing on performance, UX, secure payments, and conversion optimization.
+🔗 [Read More](https://www.linkedin.com/pulse/#/)
+
+**🔹 AI Content Scheduling Tool**
+<!--![image](1 anietie etuk data analytics car project.jpeg)-->
+***API Integration • Automation • JavaScript***
+
+A custom automation tool that schedules daily AI-generated posts for X (Twitter) using the X API and OpenAI to maintain consistent brand presence.
+🔗 [Read More](https://www.linkedin.com/pulse/#/)
+
+**🔹 SEO-Optimized Business Website**
+<!--![image](1 anietie etuk data analytics car project.jpeg)-->
+***WordPress • SEO • Performance***
+
+Built a fast, SEO-focused business website with optimized metadata, clean architecture, and improved search visibility.
+🔗 [Read More](https://www.linkedin.com/pulse/#/)
 
 
 ## TECH STACK & SKILLS
