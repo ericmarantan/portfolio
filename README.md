@@ -39,6 +39,7 @@ Ongoing support, bug fixes, refactoring legacy code, and scaling existing platfo
 **Custom WordPress Submission System**
 <!--![image](1 anietie etuk data analytics car project.jpeg)-->
 ***Custom Post Types • REST API • AJAX***
+
 A fully custom WordPress submission system that saves form data into a custom database table, supports CSV export, and handles nonce validation and autosave conflicts.
 
 [Read More](https://www.linkedin.com/pulse/#/)
