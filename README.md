@@ -1,59 +1,57 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+A Web Developer with 10+ years of experience building fast, scalable, and conversion-focused websites and web applications.
+
+I specialize in WordPress, eCommerce (Magento & Shopify), custom themes & plugins, REST APIs, and modern JavaScript, with a strong focus on performance, SEO, and long-term maintainability. I’ve worked with businesses, agencies, and entrepreneurs to turn ideas into reliable digital products that drive results.
+
+I enjoy solving real-world problems, improving workflows, and building systems that scale as businesses grow.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*I help businesses build, optimize, and scale high-performing web and eCommerce solutions.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Custom WordPress Development**
+Custom themes & plugins, REST API integrations, AJAX workflows, performance tuning, and security best practices.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ eCommerce Development (Magento & Shopify)**
+Store setup, theme customization, custom features, payment gateway integration, product optimization, and performance improvements for scalable online stores.
 
+**- ✅ Frontend Development**
+Responsive and accessible interfaces using HTML, CSS, JavaScript, Vue.js, and modern UI practices
+
+**- ✅ Backend & API Development**
+PHP, Laravel, WordPress REST API, custom endpoints, and database-driven solutions.
+
+**- ✅ SEO & Performance Optimization**
+Technical SEO, on-page optimization, structured data, page speed improvements, and SEO-friendly site architecture.
+
+**- ✅ Maintenance, Support & Scaling**
+Ongoing support, bug fixes, refactoring legacy code, and scaling existing platforms.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+*A selection of projects and systems I’ve worked on over the years..*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**Custom WordPress Submission System**
+<!--![image](1 anietie etuk data analytics car project.jpeg)-->
+***Custom Post Types • REST API • AJAX***
+A fully custom WordPress submission system that saves form data into a custom database table, supports CSV export, and handles nonce validation and autosave conflicts.
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](https://www.linkedin.com/pulse/#/)
 
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s build something impactful 🚀*
 <table>
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:ericm1986@gmail.com">ericm1986@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -61,19 +59,19 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Philippines</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://ericmarantan.github.io/portfolio/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/ericmarantan">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@ericmarantan">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
