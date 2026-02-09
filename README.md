@@ -13,22 +13,22 @@ I enjoy solving real-world problems, improving workflows, and building systems t
 
 *I help businesses build, optimize, and scale high-performing web and eCommerce solutions.*
 
-**- ✅ Custom WordPress Development**
+**✅ Custom WordPress Development**
 Custom themes & plugins, REST API integrations, AJAX workflows, performance tuning, and security best practices.
 
-**- ✅ eCommerce Development (Magento & Shopify)**
+**✅ eCommerce Development (Magento & Shopify)**
 Store setup, theme customization, custom features, payment gateway integration, product optimization, and performance improvements for scalable online stores.
 
-**- ✅ Frontend Development**
+**✅ Frontend Development**
 Responsive and accessible interfaces using HTML, CSS, JavaScript, Vue.js, and modern UI practices
 
-**- ✅ Backend & API Development**
+**✅ Backend & API Development**
 PHP, Laravel, WordPress REST API, custom endpoints, and database-driven solutions.
 
-**- ✅ SEO & Performance Optimization**
+**✅ SEO & Performance Optimization**
 Technical SEO, on-page optimization, structured data, page speed improvements, and SEO-friendly site architecture.
 
-**- ✅ Maintenance, Support & Scaling**
+**✅ Maintenance, Support & Scaling**
 Ongoing support, bug fixes, refactoring legacy code, and scaling existing platforms.
 
 
