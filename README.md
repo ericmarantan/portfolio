@@ -48,10 +48,24 @@ A fully custom WordPress submission system that saves form data into a custom da
 
 ## TECH STACK & SKILLS
 **- ✅ Languages:**
- PHP, JavaScript, HTML, CSS, SQL
+ PHP, JavaScript, HTML, CSS, SQL, MySQL
  
-**- ✅ Languages:**
- PHP, JavaScript, HTML, CSS, SQL
+**- ✅ CMS & eCommerce:**
+ WordPress, Magento, Shopify
+
+**- ✅ Frameworks & Libraries:**
+ Laravel, Vue.js, ReactJS
+ 
+**- ✅ SEO:**
+ Technical SEO, On-Page SEO, Performance Optimization, Structured Data
+
+**- ✅ Tools:**
+Git, GitHub, Docker, REST APIs, AJAX
+ 
+**- ✅ Others:**
+Security Best Practices, UI/UX, Conversion Optimization
+
+
 
 
 ## CONTACT DETAILS
