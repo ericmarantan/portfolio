@@ -31,6 +31,7 @@ Technical SEO, on-page optimization, structured data, page speed improvements, a
 **- ✅ Maintenance, Support & Scaling**
 Ongoing support, bug fixes, refactoring legacy code, and scaling existing platforms.
 
+
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
@@ -44,12 +45,14 @@ A fully custom WordPress submission system that saves form data into a custom da
 
 [Read More](https://www.linkedin.com/pulse/#/)
 
+
 ## TECH STACK & SKILLS
 **- ✅ Languages:**
  PHP, JavaScript, HTML, CSS, SQL
  
 **- ✅ Languages:**
  PHP, JavaScript, HTML, CSS, SQL
+
 
 ## CONTACT DETAILS
 
