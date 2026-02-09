@@ -44,6 +44,11 @@ A fully custom WordPress submission system that saves form data into a custom da
 
 [Read More](https://www.linkedin.com/pulse/#/)
 
+## TECH STACK & SKILLS
+**- ✅ Languages:**
+ PHP, JavaScript, HTML, CSS, SQL
+**- ✅ Languages:**
+ PHP, JavaScript, HTML, CSS, SQL
 
 ## CONTACT DETAILS
 
