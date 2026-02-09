@@ -79,7 +79,7 @@ Security Best Practices, UI/UX, Conversion Optimization
     </tr>
     <tr>
       <td>📞</td>
-      <td><a href="https://wa.me/639052161986">WhatsApp</td>
+      <td>Message me on <a href="https://wa.me/639052161986">WhatsApp</td>
     </tr>
     <tr>
       <td>📍</td>
